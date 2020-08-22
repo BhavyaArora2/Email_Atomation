@@ -1,0 +1,8 @@
+Dear ${PERSON_NAME},
+
+
+An automated mail generated using python.
+
+
+Yours Truly
+Sender
